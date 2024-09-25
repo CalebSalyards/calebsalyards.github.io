@@ -4,8 +4,15 @@
     href="{{ "/assets/favicon.png"  | absolute_url }}"> -->
 </head>
 
+<head>
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
+<!--   <link rel="shortcut icon" type="image/png" 
+    href="{{ "/assets/favicon.png"  | absolute_url }}"> -->
+</head>
+
 # 💫About Me:
 Hello! I'm Caleb Salyards, I love learning and working with databases, system administration, and automation.
+
 <!-- ## 🌐 Socials: -->
 [![GitHub](https://img.shields.io/badge/GitHub-indigo?logo=github&logoColor=white)](https://github.com/CalebSalyards) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/caleb-salyards) 
@@ -13,8 +20,10 @@ Hello! I'm Caleb Salyards, I love learning and working with databases, system ad
 <br>Linux, Windows, Bash-->
 
 ### Working on:
+- [salyards.cc](https://salyards.cc) - Self-hosting files, media, and security features, unified into one service with SSO and LDAP.
+- Silicon - A full-stack web application to track owned computer hardware and components.
+- [ReDeploy](https://github.com/CalebSalyards/redeployDB) - A frontend backend and database application. A unique take on Windows backup, restore, and migration (another component can be found [here](https://github.com/Salsonn/zipper))
 - [optiK](https://github.com/salsonn/optik) - A lightweight peripheral management automation tool
-- [ReDeploy](https://github.com/CalebSalyards/redeployDB) - A unique take on OS backup, restore, and migration (another component can be found [here](https://github.com/Salsonn/zipper))
 
 ### Other Projects
 - [MicMute](https://github.com/Salsonn/MicMute) - A simple utility to mute a microphone as fast as possible
@@ -26,30 +35,24 @@ Hello! I'm Caleb Salyards, I love learning and working with databases, system ad
 - [authentication-test](https://github.com/CalebSalyards/authentication-test) - Kubernetes deployment for rudimentary web server authentication. 
 
 ### Background
-I'm pursuing a Bachelor's degree in Computer Information Technology from Brigham Young University - Idaho with both Database and System Administration certificate emphasis, and a minor in Computer Science. I'm deep into the weeds of self-hosting and migrating to Linux.
-
-
-
+I'm about to graduate from Brigham Young University - Idaho with a Bachelor's degree in Computer Information Technology with Database and SysAdmin emphasis, and a minor in Computer Science. I'm deep into the weeds of self-hosting and migrating to Linux.
 
 
 ## 💻 Tech Stack:
 ### Applications
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/docker_compose-grey?style=for-the-badge&logo=docker)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-red?style=for-the-badge&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white)
-
-
-<!-- Coming Soon :D -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazon) -->
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazon)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker_compose-grey?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-lightgrey?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-grey?style=for-the-badge&logo=tailscale)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-white?style=for-the-badge&logo=cloudflare)
-![Terraform](https://img.shields.io/badge/Terraform-lightgrey?style=for-the-badge&logo=terraform)
 ![Traefik Proxy](https://img.shields.io/badge/Traefik_Proxy-teal?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ### Languages 
@@ -79,10 +82,12 @@ I'm pursuing a Bachelor's degree in Computer Information Technology from Brigham
 
 ## 📊 [GitHub](https://github.com/CalebSalyards) Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CalebSalyards&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=CalebSalyards&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebSalyards&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=CalebSalyards&theme=dark&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebSalyards&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CalebSalyards&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
