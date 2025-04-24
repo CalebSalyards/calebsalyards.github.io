@@ -1,7 +1,7 @@
 # calebsalyards.github.io
 A place for random and useful things.
 
-View my [Portfolio Page](calebsalyards.github.io)
+View my [Portfolio Page](https://calebsalyards.github.io)
 
 ## Quick Links
 * BYU-Idaho
