@@ -16,8 +16,8 @@ Hello, I'm Caleb! I'm a self-driven data engineer and automation geek. I use ama
 Not the fanciest portfolio page? True, but it's easy to find what you're looking for, which I think is just as important.
 
 <!-- ## 🌐 Socials: -->
-**My Online Presence:**<br>
-[![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?logo=forgejo&logoColor=white)](https://git.salyards.cc/SalSonn)
+### Find me on... 
+> [![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?logo=forgejo&logoColor=white)](https://git.salyards.cc/SalSonn) 
 [![GitHub](https://img.shields.io/badge/GitHub-indigo?logo=github&logoColor=white)](https://github.com/CalebSalyards) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-salyards) 
 <!--<br>Python, C#, SQL
