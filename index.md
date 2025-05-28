@@ -37,13 +37,13 @@ I also love Linux and I'm migrating my workstation to NixOS. Reach out if you *h
 - [optiK](https://github.com/salsonn/optik) - A lightweight peripheral management automation tool
 
 ## Other Projects
+- [authentication-test](https://github.com/CalebSalyards/authentication-test) - Kubernetes deployment for rudimentary web server authentication. 
+- [docker-automation](https://github.com/CalebSalyards/docker-automations) - Tools for automatic install and uninstall of Docker on Windows systems.
+- [SMS Converter](https://git.salyards.cc/SalSonn/sms-converter) - Containerization of an old SMS database converter for more convenient ETL
+- [Lister](https://github.com/Salsonn/lister) - Select from a list within a command line. My attempt at learning at least a _little_ Rust.
 - [MicMute](https://github.com/Salsonn/MicMute) - A simple utility to mute a microphone as fast as possible
 - [AdvancedStartup](https://github.com/Salsonn/AdvancedStartup) - Manage Windows startup applications that hide in lesser known places
 - [BatteryStatus](https://github.com/Salsonn/BatteryStatus) - Why Windows doesn't have a battery percentage indicator escapes me.
-- [SMS Converter](https://git.salyards.cc/SalSonn/sms-converter) - Containerization of an old SMS database converter for more convenient ETL
-- [Lister](https://github.com/Salsonn/lister) - Select from a list within a command line. My attempt at learning at least a _little_ Rust.
-- [docker-automation](https://github.com/CalebSalyards/docker-automations) - Tools for automatic install and uninstall of Docker on Windows systems.
-- [authentication-test](https://github.com/CalebSalyards/authentication-test) - Kubernetes deployment for rudimentary web server authentication. 
 
 
 ## 💻 Tech Stack:
